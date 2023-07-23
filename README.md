@@ -1,19 +1,4 @@
-<h2 align="center">
-  Hotstar Clone<br/>
-  <a href="https://rf2rhk.csb.app/" target="_blank">Hotstarclone</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="demo.png" />
-</div>
 
-<br/>
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-
-</center>
 
 
 ## Introduction
