@@ -14,8 +14,3 @@ This project was built using these technologies.
 * Javascript
 * VsCode 
 
-### Show your support
-
-Give a ⭐ if you like this website!
-
-
